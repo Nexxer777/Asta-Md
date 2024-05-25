@@ -3,7 +3,7 @@ services:
 - type: web
   name: Asta-Md-1
   runtime: node
-  repo: https://github.com/Astropeda/Asta-Md
+  repo: https://github.com/Nexxer777/Asta-Md
   plan: free
   envVars:
   - key: CAPTION
